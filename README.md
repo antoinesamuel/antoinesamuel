@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-**antoinesamuel/antoinesamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 i'm antoine KONKA a junior dev based in Lomé,Togo
+- 🔭 I’m currently a college student at ESGIS Togo where i learn Software engenieering skills to build aesthetic,Faithful solution with code
 
 Here are some ideas to get you started:
 
