@@ -1,5 +1,5 @@
 ### Salut 👋
-i'm antoine KONKA Développeur FulStack Junior basé a lomé, Togo 🇹🇬 
+i'm antoine KONKA Développeur FulStack Junior basé à lomé, Togo 🇹🇬 
 >
 Maîtrisant les technologies backend et frontend, je concois des applications et interfaces web intuitives, accesibles et agréables pour mes clients
 >
