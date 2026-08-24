@@ -6,4 +6,6 @@ Maîtrisant les technologies backend et frontend, je concois des applications et
 Animer par la volonté d'apprendre continuelement et de faire évoluer mes compétences, je souhaite mettre ma réactivité, ma passion pour le code et le design au service de projets ambitieux.
 
 #### Fun fact 
-I love art
+1. I love java
+2. I love Kanye west Songs
+3. I love KONKA
